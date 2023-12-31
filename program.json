@@ -1,6 +1,6 @@
 {
-  "program": "zk_sra_encryption_v0_0_1.aleo",
-  "version": "0.0.0",
-  "description": "",
-  "license": "MIT"
+  "program": "zk_sra_encryption_v0_0_2.aleo",
+  "version": "0.0.2",
+  "description": "Implementation of the SRA encryption scheme for Aleo",
+  "license": "GPL-3.0"
 }
